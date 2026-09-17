@@ -8,6 +8,6 @@ class Solution:
         
 def main():
     nums = [-4, -1, 0, 3, 10]
-    print(Solution().sortedSquares(nums))  # Output: [0, 1, 9, 16, 100]
+    print(Solution().sortedSquares(nums)) 
 if __name__ == "__main__":
     main()
